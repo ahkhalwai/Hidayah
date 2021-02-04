@@ -1,3 +1,3 @@
-# Quran & Modern Science
+# Hidaya
 
-## This repository for comparison between Quran which reveal 1400 years ago and Modern Science which is recently come into existances
+## This repository solve the problems against Islam and Major religions using Scientifically, Mathematically and Logically etc. 
